@@ -13,5 +13,9 @@
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "3"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Sylvn001/time_to_answer.git",
+  "author": "Sylvn001 <juniorbaarros@gmail.com>",
+  "license": "MIT"
 }
